@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Jai Bholenath, Jai Peer Di, Jai Lakh Data Peer Di, Jai Mata Di, Jai Bhijasen Mata, Jai Maa Kela Devi, Jai Sai  -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/sky"/> <!-- pressed -->
+    <item android:state_focused="true" android:drawable="@color/sky"/> <!-- focused -->
+    <item android:drawable="@color/transparent"/> <!-- default -->
+</selector>
